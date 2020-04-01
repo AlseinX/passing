@@ -1,0 +1,12 @@
+[package]
+name = 'pass'
+version = '0.1.0'
+authors = ['AlseinX <xyh951115@live.com>']
+license = 'MIT'
+description = 'A struct that simplifies value passing in multiple conditions.'
+homepage = 'https://github.com/AlseinX/pass'
+repository = 'https://github.com/AlseinX/pass'
+readme = 'README.md'
+edition = '2018'
+
+[dependencies]
